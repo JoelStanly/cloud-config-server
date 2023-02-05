@@ -5,4 +5,4 @@ eureka:
     service-url:
       defaultZone: http://ec2-3-109-155-3.ap-south-1.compute.amazonaws.com:8761/
   instance:
-    hostname: localhost
+    hostname: ec2-3-109-155-3.ap-south-1.compute.amazonaws.com
